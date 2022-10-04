@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1 (1080p)                                                            
+https://live.olelive.com:4443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5 (1080p)
+https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+ (1080p)
+https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13 (1080p)
+https://live.olelive.com:4443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
+https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
