@@ -9,3 +9,13 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 https://live.olelive.com:4443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA HD" tvg-logo="" group-title="NBA TV",|.NBA.| NBA HD
+http://eeloos.azureedge.net/live/NTQ5MQ==/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 2" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 2
+http://wwkastrha.azureedge.net/live/NBA2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA HD" tvg-logo="" group-title="NBA TV",|.NBA.| NBA HD
+http://wwkastrha.azureedge.net/live/NBA1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 79" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 79
+http://wwkastrha.azureedge.net/live/NBA79/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 3" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 3
+http://wwkastrha.azureedge.net/live/NBA3/chunks.m3u8
